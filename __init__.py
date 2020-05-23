@@ -1,0 +1,1 @@
+from .confcodigo import CCApp
