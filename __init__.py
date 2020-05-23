@@ -1,1 +1,0 @@
-from confcodigo import CCApp
