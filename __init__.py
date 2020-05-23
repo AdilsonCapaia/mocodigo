@@ -1,1 +1,1 @@
-from .confcodigo import CCApp
+from confcodigo import CCApp
